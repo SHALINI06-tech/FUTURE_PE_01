@@ -1,2 +1,19 @@
 # FUTURE_PE_01
-Prompt Engineering Task 1: AI-generated marketing video using Lumen5, ChatGPT, Canva, and Runway AI
+
+🎥 **Prompt Engineering Task 1 — AI-Generated Marketing Video**  
+As part of my internship at Future Interns, I explored how to creatively use AI tools to generate a marketing video from scratch.
+
+## 🌟 Project Overview
+This task helped me understand prompt engineering not just as a technical skill but as a creative storytelling process. I used a mix of AI tools to bring an imaginary magical school to life — inspired by Misty Valley Academy of Magical Arts.
+
+## 📂 Files in this Repo
+- `script.txt` – The full video script and prompt flow.  
+- `storyboard.png` – A visual snapshot of the storyboard.  
+- `tools_used.md` – AI tools used for this project.  
+- `reflections.md` – My personal learnings and experience.
+
+## 🚀 Tools Used
+- [Lumen5](https://www.lumen5.com/) – For AI video creation  
+- [Runway ML](https://runwayml.com/) – For video generation and enhancements  
+- [Canva](https://www.canva.com/) – For design and layout  
+- [ChatGPT](https://chat.openai.com) – For prompt creation and narration scripting
